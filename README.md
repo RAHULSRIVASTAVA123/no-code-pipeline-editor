@@ -1,7 +1,7 @@
 # no-code-pipeline-editor
 A no-code pipeline builder inspired by VectorShift, featuring dynamic nodes, template-based Text nodes, DAG validation, and undo/redo support.
 
-# VectorShift Pipeline Builder
+
 
 A no-code, DAG-based pipeline editor inspired by VectorShift.  
 Built with **React Flow**, **Zustand**, and **FastAPI**, this project allows users to visually construct pipelines, define dynamic text templates, and validate graph correctness.
